@@ -14,4 +14,4 @@ Files :
   The PR review lambda function has been provided.
 
 ## RESULTS.
-<img src="results.png" alt="Architecture" width="809px" height="783px">
+<img src="results.png" alt="Architecture" width="300" height="200px">
